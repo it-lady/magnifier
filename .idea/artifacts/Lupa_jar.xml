@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lupa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lupa_jar</output-path>
+    <root id="archive" name="Lupa.jar">
+      <element id="module-output" name="Lupa" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Lupa.jar" path-in-jar="/" />
+      <element id="module-source" name="Lupa" />
+    </root>
+  </artifact>
+</component>
